@@ -1,0 +1,31 @@
+# Vector Database
+#faiss-cpu
+
+# RAG & Text Processing
+#langchain
+#langchain-community
+#langchain-text-splitters
+
+# Embeddings (local, free)
+#sentence-transformers
+
+## Document Reading
+#python-docx
+#pdfplumber
+
+# LLM (Gemini Flash)
+#google-generativeai
+
+# Core Utilities
+#numpy
+#pickle-mixin
+
+
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+pypdf
+transformers
+torch
+
